@@ -28,10 +28,3 @@ Each sample in the condensed dataset contains:
 * **Mass (kg):** Total mass of the resulting car hood.
 * **Deformation (mm):** Maximum structural displacement/bending.
 
-## 🗂 File Structure
-
-```text
-CarHoods10k/
-│
-├── CarHoods_NoOutliers.h5   # Main 3D point cloud & physics database
-└── README.md
