@@ -2,7 +2,7 @@
 
 ![Dataset Size](https://img.shields.io/badge/Dataset-9%2C982_Samples-blue)
 ![Format](https://img.shields.io/badge/Format-HDF5_%7C_CSV-orange)
-![Compression](https://img.shields.io/badge/Compression-400GB+_to_HDF5-red)
+![Processing](https://img.shields.io/badge/Compression-400GB+_to_HDF5-red)
 ![Task](https://img.shields.io/badge/Task-Surrogate_Modeling_%7C_Inverse_Design-success)
 
 ## 📌 Overview & My Contribution
